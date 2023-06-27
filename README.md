@@ -28,6 +28,8 @@ cd /home && poetry install && poetry shell
 python main.py -t <target_image> -s <source_image> -o <output_image>
 ```
 
+* The first time it may take some time to download the models.
+
 ## Example
 
 Target image:
